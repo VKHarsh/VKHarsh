@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VKHarsh
-- 👀 Data Analytics
 - 🌱 Bachelor of Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 7045763045
